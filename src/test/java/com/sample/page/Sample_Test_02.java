@@ -5,7 +5,7 @@ import org.testng.annotations.Test;
 public class Sample_Test_02 {
 
 
-		//hagsyh
+	
 	@Test(groups = "regression")
 	public void History() {
 		System.out.println("Focus on modern history thoroughly and significant administrative measures in the ancient & medieval history");
